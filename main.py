@@ -1,3 +1,1 @@
-print("serht")
-print("abc")
-print("abhftd")
+print("Добрий день")
